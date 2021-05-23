@@ -1,0 +1,25 @@
+#topNav img {
+  height: 50px;
+  width: 50px;
+}
+#topNav nav {
+  background-color: #0fc690 !important;
+}
+#topNav {
+  font-size: 20px;
+}
+#info {
+  background-image: url("https://image.freepik.com/free-vector/hand-painted-background-violet-orange-colours_23-2148427578.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 680px;
+  color: #fff;
+  max-height: 600px;
+}
+
+#footer {
+    background-color: cadetblue;
+}
+#footer span { color: white;}
+#footer p { color: white;}
+#footer a { color: white;}
